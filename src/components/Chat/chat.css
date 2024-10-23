@@ -1,0 +1,21 @@
+ul {
+  list-style-type:  none;
+}
+.chat {
+  width: 490px;
+  margin-left: auto;
+  background: #f2f5f8;
+  color: #434651;
+}
+
+.chat__messages {
+  padding: 30px 30px 20px;
+  border-bottom: 2px solid white;
+  overflow-y: scroll;
+  height: 575px;
+}
+
+.chat__messages-waiting {
+  width: 40px;
+  margin-left: 45%;
+}
